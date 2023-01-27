@@ -1,0 +1,60 @@
+.choices {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.choices_sidedish {
+    
+    position: relative;
+    border: 1px dotted rgb(62, 131, 242);
+    flex-wrap: wrap;
+    flex-basis: 15%;
+    margin: 10px 35rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    
+}
+
+.customOrders {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+}
+
+.choices {
+    
+    position: relative;
+    border: 1px dotted blue;
+    flex-basis: 15;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    
+}
+
+.choices_vegetable {
+    
+    position: relative;
+    border: 1px dotted rgb(132, 92, 234);
+    flex-wrap: wrap;
+    flex-basis: 15%;
+    margin: 10px 35rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    
+}
+
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 1px, solid, black;
+}
+
+.sales {
+    margin: 3px;
+    padding: 10px;
+}
